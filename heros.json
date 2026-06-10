@@ -1,7 +1,7 @@
 [
   {"name": "Ricardo","price":9.99},
   {"name": "Martino","price":100.99},
-  {"name": "Ted","price":9:99},
+  {"name": "Ted","price":9.99},
   {"name": "Matthew","price":9.98},
   {"name": "Ross","price":2.00}
 ]
